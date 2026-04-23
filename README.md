@@ -14,7 +14,7 @@ Interest in Quality Assurance Engineer. Completed QA Bootcamp at Eduwork, gainin
     <td><a href="https://www.cypress.io"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://developer.android.com/studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.katalon.com"><img src="https://cdn.simpleicons.org/katalonstudio/3399CC" width="40" height="40" alt="Katalon"/></a></td>
+    <td><a href="https://www.katalon.com"><img src="https://img.shields.io/badge/Katalon-3399CC?style=for-the-badge&logo=katalonstudio&logoColor=white" height="40"/></a></td>
     <td><a href="https://dbeaver.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://jmeter.apache.org/"><img src="https://jmeter.apache.org/images/jmeter_square.svg" width="40" height="40"/></a></td>
